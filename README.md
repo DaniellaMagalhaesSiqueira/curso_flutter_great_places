@@ -1,6 +1,6 @@
 # great_places
 
-A new Flutter project.
+Usando recursos nativos. Curso Cod3r de Flutter.
 
 ## Getting Started
 
